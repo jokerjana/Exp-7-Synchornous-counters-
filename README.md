@@ -99,7 +99,7 @@ endmodule
 ![image](https://github.com/jokerjana/Exp-7-Synchornous-counters-/assets/147173630/0667f576-4dbe-422f-86f0-19ecb1fce99e)
 
 ### DOWN COUNTER:
-![image](https://github.com/Raji1009/Exp-7-Synchornous-counters-/assets/89059861/9b524cc1-9a1a-4b3d-9815-21bdd0dbda7f)
+![image](https://github.com/jokerjana/Exp-7-Synchornous-counters-/assets/147173630/76c49f73-dc09-45bb-9f8f-0baf0fdcf137)
 
 
 ### TIMING DIGRAMS FOR COUNTER :
