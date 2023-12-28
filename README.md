@@ -117,7 +117,7 @@ endmodule
 ![image](https://github.com/jokerjana/Exp-7-Synchornous-counters-/assets/147173630/c6b23084-5d8f-4e49-bce4-80ba915952b1)
 
 ### DOWN COUNTER :
-![image](https://github.com/Raji1009/Exp-7-Synchornous-counters-/assets/89059861/409de45b-b9cc-4193-9f8a-f91edde7c0c4)
+![image](https://github.com/jokerjana/Exp-7-Synchornous-counters-/assets/147173630/a2d9eaf0-3d0f-4cca-9c64-e1ce4b6d15ab)
 
 
 ### RESULTS 
