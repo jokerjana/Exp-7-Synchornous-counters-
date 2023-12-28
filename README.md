@@ -114,7 +114,7 @@ endmodule
 ## TRUTH TABLE :
 
 ### UP COUNTER :
-![image](https://github.com/Raji1009/Exp-7-Synchornous-counters-/assets/89059861/aab967aa-f5d8-4383-be1d-c19c1e14f121)
+![image](https://github.com/jokerjana/Exp-7-Synchornous-counters-/assets/147173630/c6b23084-5d8f-4e49-bce4-80ba915952b1)
 
 ### DOWN COUNTER :
 ![image](https://github.com/Raji1009/Exp-7-Synchornous-counters-/assets/89059861/409de45b-b9cc-4193-9f8a-f91edde7c0c4)
